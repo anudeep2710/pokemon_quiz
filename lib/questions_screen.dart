@@ -43,8 +43,6 @@ class _QuestionsScreenState extends State<QuestionsScreen> {
                 color:const Color.fromARGB(255, 201, 153, 251),
                 fontSize: 28,
                 fontWeight: FontWeight.bold
-
-
               ),
               textAlign:TextAlign.center ,
             
